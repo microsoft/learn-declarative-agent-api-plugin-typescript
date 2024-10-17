@@ -1,14 +1,32 @@
-# Project
+# Browse the menu and place an order at a local Italian restaurant using Microsoft 365 Copilot
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+## Summary
 
-As the maintainer of this project, please make a few updates:
+This is a starter project for the **Build your first action for declarative agents with API plugin by using Visual Studio Code** learn module. The module teaches you how to build a declarative agent for Microsoft 365 Copilot that allows you to browse a menu of a local Italian restaurant and place an order. The agent uses an API plugin to connect to an anonymous API. The project contains an Azure Function that serves as the API.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+![Declarative agent showing what's on the menu for lunch](./assets/screenshot-menu.png)
+![Declarative agent ordering lunch](./assets/screenshot-order.png)
+
+## Features
+
+This sample illustrates the following concepts:
+
+* Building a declarative agent for Microsoft 365 Copilot with an API plugin
+* Connecting an API plugin to an anonymous API
+* Using [dev tunnels](https://learn.microsoft.com/azure/developer/dev-tunnels/overview) to test the API plugin locally
+
+## Prerequisites
+
+* Microsoft 365 tenant with Microsoft 365 Copilot
+* [Visual Studio Code](https://code.visualstudio.com/) with the [Teams Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) extension
+* [Node.js v18](https://nodejs.org/en/download/package-manager)
+* [Azure Functions Core Tools](https://learn.microsoft.com/azure/azure-functions/functions-run-local#install-the-azure-functions-core-tools)
+
+## Minimal path to awesome
+
+* Clone this repository
+* Open the Teams Toolkit extension and sign in to your Microsoft 365 tenant with Microsoft 365 Copilot
+* Select **Debug in Copilot (Edge)** from the launch configuration dropdown
 
 ## Contributing
 
