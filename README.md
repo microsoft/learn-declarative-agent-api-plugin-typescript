@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is a starter project for the **Build your first action for declarative agents with API plugin by using Visual Studio Code** learn module. The module teaches you how to build a declarative agent for Microsoft 365 Copilot that allows you to browse a menu of a local Italian restaurant and place an order. The agent uses an API plugin to connect to an anonymous API. The project contains an Azure Function that serves as the API.
+This is a starter project for the [**Build your first action for declarative agents with API plugin by using Visual Studio Code**](https://learn.microsoft.com/training/modules/copilot-declarative-agent-action-api-plugin-vsc/) learn module. The module teaches you how to build a declarative agent for Microsoft 365 Copilot that allows you to browse a menu of a local Italian restaurant and place an order. The agent uses an API plugin to connect to an anonymous API. The project contains an Azure Function that serves as the API.
 
 ![Declarative agent showing what's on the menu for lunch](./assets/screenshot-menu.png)
 ![Declarative agent ordering lunch](./assets/screenshot-order.png)
